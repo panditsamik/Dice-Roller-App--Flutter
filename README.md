@@ -1,16 +1,14 @@
-# dicee
+Dice Roller App - Flutter
 
-A new Flutter project.
+This is a dice roller application created for a project in 'Flutter Festivals' + 'U Design I Dare'
 
-## Getting Started
+Screenshots of the app :
 
-This project is a starting point for a Flutter application.
+![Screen Shot 2022-03-25 at 8 07 43 PM](https://user-images.githubusercontent.com/91545371/160143708-49c0efdd-59bb-43f8-8682-f89086084e60.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+![Screen Shot 2022-03-25 at 8 08 05 PM](https://user-images.githubusercontent.com/91545371/160143759-74f1cc85-615d-4d0a-8a93-019da432d6aa.png)
+
